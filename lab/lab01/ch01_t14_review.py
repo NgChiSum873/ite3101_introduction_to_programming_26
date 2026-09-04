@@ -1,1 +1,2 @@
-skill_c
+skill_completed = "Python Syntax"
+exercises_co
