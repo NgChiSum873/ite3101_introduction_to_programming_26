@@ -1,3 +1,3 @@
 caesar = "Graham"
 praline = 'John'
-viking = "Tersa"
+viking = "Teresa"
