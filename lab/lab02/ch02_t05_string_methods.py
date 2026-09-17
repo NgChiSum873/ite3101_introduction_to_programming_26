@@ -1,2 +1,2 @@
-parrot = 
+parrot = "Mon"
 print
