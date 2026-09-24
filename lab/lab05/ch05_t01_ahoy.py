@@ -1,1 +1,1 @@
-print("Piglats")
+print("Pigl")
