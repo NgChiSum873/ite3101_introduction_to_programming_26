@@ -1,3 +1,3 @@
 from typing import Any
 
-def distance_from_zero
+def distance_from_zero()
