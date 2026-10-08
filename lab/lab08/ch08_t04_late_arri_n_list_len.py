@@ -3,7 +3,7 @@ suitcase.append("sunglasses")
 
 # Your code here!
 suitcase.append("bathing_suit")
-suitcase.append("sunglasses")
+suitcase.append("T-shirt")
 suitcase.append("sunglasses")
 
 
