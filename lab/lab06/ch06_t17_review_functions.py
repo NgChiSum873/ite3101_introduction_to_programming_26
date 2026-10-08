@@ -1,3 +1,3 @@
 def shut_down(s:str)->str:
     if s== "yes":
-        return "shutdown"
+        return "shutting down"
