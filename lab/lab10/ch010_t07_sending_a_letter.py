@@ -42,7 +42,7 @@ def get_letter_grade(score: float) -> str:
     elif score >= 60:
         return "D"
     else:
-        return "F"
+        return False
 
 
 print(get_letter_grade(get_average(lloyd)))
