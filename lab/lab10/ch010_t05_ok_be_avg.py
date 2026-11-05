@@ -17,7 +17,7 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-for student in student:
+for student in students:
     print(student["name"])
     print(student["homework"])
     print(student["qizzes"])
