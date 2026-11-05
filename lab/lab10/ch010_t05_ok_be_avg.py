@@ -20,5 +20,5 @@ tyler = {
 for student in students:
     print(student["name"])
     print(student["homework"])
-    print(student["name"])
+    print(student["qizzes"])
     print(student["name"])
