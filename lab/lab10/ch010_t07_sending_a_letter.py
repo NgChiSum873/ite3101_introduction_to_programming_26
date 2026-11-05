@@ -49,4 +49,5 @@ print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
 def get_letter_grade(score:float) -> str:
-    if score >= 
+    if score >= 90:
+        r
