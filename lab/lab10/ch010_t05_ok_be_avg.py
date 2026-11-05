@@ -18,4 +18,4 @@ tyler = {
 }
 
 for student in students:
-    print(student[name])
+    print(student["name"])
