@@ -8,3 +8,4 @@ def list_function(x: List[int]) -> List[int]:
 
 n = [3, 5, 7]
 print(list_function(n))
+print(n)
