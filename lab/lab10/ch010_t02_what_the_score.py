@@ -1,8 +1,8 @@
 lloyd = {
     "name": "Lloyd",
-    "homework": [],
-    "quizzes": [],
-    "tests": []
+    "homework": [90.0, 97.0, 75.0, 92.0],
+    "quizzes": [88.0, 40.0, 94.0],
+    "tests": [75.0, 90.0]
 }
 alice = {
     "name": "Alice",
@@ -16,3 +16,4 @@ tyler = {
     "quizzes": [0.0, 75.0, 78.0],
     "tests": [100.0, 100.0]
 }
+
