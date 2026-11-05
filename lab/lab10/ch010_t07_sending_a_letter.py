@@ -48,4 +48,4 @@ def get_letter_grade(score: float) -> str:
 print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
-def get_letter_grade(score)
+def get_letter_grade(score:float)
