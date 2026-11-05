@@ -1,5 +1,3 @@
-from typing import List
-
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
@@ -18,10 +16,5 @@ tyler = {
     "quizzes": [0.0, 75.0, 78.0],
     "tests": [100.0, 100.0]
 }
-
-
-def average(numbers: List[float]) -> float:
-    total = sum(numbers)
-    return total / len(numbers)
 
 # Add your function below!
