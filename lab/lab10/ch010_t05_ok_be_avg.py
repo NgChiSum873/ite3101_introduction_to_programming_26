@@ -18,3 +18,4 @@ tyler = {
 }
 
 for student in students:
+    print
